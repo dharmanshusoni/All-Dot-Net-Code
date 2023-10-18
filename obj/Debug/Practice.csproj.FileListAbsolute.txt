@@ -1,0 +1,8 @@
+C:\Users\dharm\Desktop\Practice\bin\Debug\Practice.exe.config
+C:\Users\dharm\Desktop\Practice\bin\Debug\Practice.exe
+C:\Users\dharm\Desktop\Practice\bin\Debug\Practice.pdb
+C:\Users\dharm\Desktop\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+C:\Users\dharm\Desktop\Practice\obj\Debug\Practice.csproj.SuggestedBindingRedirects.cache
+C:\Users\dharm\Desktop\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\dharm\Desktop\Practice\obj\Debug\Practice.exe
+C:\Users\dharm\Desktop\Practice\obj\Debug\Practice.pdb
