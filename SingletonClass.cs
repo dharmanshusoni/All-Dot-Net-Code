@@ -8,8 +8,8 @@ namespace Practice
 {
     class Singleton
     {
-        //static class
-        //In C#, one is allowed to create a static class, by using static keyword.
+        //Singleton/static class
+        //In C#, one is allowed to create a singleton/static class, by using static keyword.
         //A static class can only contain static data members, static methods, and a static constructor.
         //It is not allowed to create objects of the static class.
         //Static classes are sealed, means you cannot inherit a static class from another class.

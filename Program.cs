@@ -103,7 +103,7 @@ namespace Practice
     {
         private static String print()
         {
-            return "Hi, I am Ashutosh!";
+            return "Hi, I am Dharmanshu!";
         }
         static void Main1(string[] args)
         {
@@ -141,7 +141,6 @@ namespace Practice
 
             Console.WriteLine("-----------------Dictionary---------------------------");
             //When you try to access non existing key dictionary, it gives runtime error.
-            //Dictionary maintains an order of the stored values.
             //Dictionary maintains an order of the stored values.
             Dictionary<string,string> my_dic = new Dictionary<string, string>();
             my_dic.Add("A1", "Welcome");
