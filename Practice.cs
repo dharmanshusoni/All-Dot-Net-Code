@@ -13,7 +13,7 @@ namespace Practice
             return 10;
         }
 
-        public static void Main(string[] args)
+        public static void Main1(string[] args)
         {
             TestDerived t = new TestDerived();
             Console.WriteLine(t.intReturn(10));

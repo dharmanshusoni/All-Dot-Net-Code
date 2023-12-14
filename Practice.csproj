@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AbstractExample.cs" />
+    <Compile Include="AsynchronousProgram.cs" />
     <Compile Include="ConstAndReadOnly.cs" />
     <Compile Include="DelegateClass.cs" />
     <Compile Include="DependencyInjection.cs" />
