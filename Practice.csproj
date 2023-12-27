@@ -35,6 +35,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Caching" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -44,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AbstractExample.cs" />
+    <Compile Include="AnonymousTypeVariable.cs" />
     <Compile Include="AsynchronousProgram.cs" />
     <Compile Include="ConstAndReadOnly.cs" />
     <Compile Include="DelegateClass.cs" />
@@ -51,8 +53,10 @@
     <Compile Include="InheritanceWithNewKeyword.cs" />
     <Compile Include="InterfaceExample.cs" />
     <Compile Include="LinqQueries.cs" />
+    <Compile Include="MemoryCaching.cs" />
     <Compile Include="OperatorOverloading.cs" />
     <Compile Include="Practice.cs" />
+    <Compile Include="PrimaryConstructors.cs" />
     <Compile Include="PrivateConstructor.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

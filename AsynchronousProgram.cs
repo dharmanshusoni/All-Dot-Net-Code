@@ -12,7 +12,7 @@ namespace Practice
         static EventWaitHandle evenReady;
         static EventWaitHandle oddReady;
 
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             bool countOdd = true; // Change these to true/false as wanted.
             bool countEven = true;
