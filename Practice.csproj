@@ -45,11 +45,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AbstractExample.cs" />
+    <Compile Include="AnonymousMethods.cs" />
     <Compile Include="AnonymousTypeVariable.cs" />
     <Compile Include="AsynchronousProgram.cs" />
     <Compile Include="ConstAndReadOnly.cs" />
     <Compile Include="DelegateClass.cs" />
     <Compile Include="DependencyInjection.cs" />
+    <Compile Include="Events.cs" />
+    <Compile Include="ExpressionTree.cs" />
     <Compile Include="InheritanceWithNewKeyword.cs" />
     <Compile Include="InterfaceExample.cs" />
     <Compile Include="LinqQueries.cs" />
