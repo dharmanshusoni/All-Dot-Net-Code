@@ -9,7 +9,7 @@ namespace Practice
 {
     internal class ExpressionTree
     {
-        public static void Main(string[] args)
+        public static void Main1(string[] args)
         {
             Func<string,string,string> stringJoins = (str1,str2) => string.Concat(str1,str2);
 

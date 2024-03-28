@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//A delegate in C# is a type that refers to methods with a parameter list and return type
 delegate int NumberChanger(int n);
 namespace Practice
 {
@@ -35,7 +36,7 @@ namespace Practice
             nc1(25);
             Console.WriteLine("Value of Num: {0}", getNum());
             nc2(5);
-            Console.WriteLine("Value of Num: {0}", getNum());
+            Console.WriteLine("Value of Num: {0}", getNum()); 
             Console.ReadKey();
         }
     }

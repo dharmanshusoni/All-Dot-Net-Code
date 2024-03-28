@@ -6,6 +6,11 @@ using System.Threading.Tasks;
 
 namespace Practice
 {
+    // It cannot be inherited 
+    //public class test : Counter
+    //{
+    //}
+
     public class Counter
     {
         private Counter() { }

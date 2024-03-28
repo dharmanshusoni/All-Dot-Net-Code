@@ -34,6 +34,7 @@ namespace Practice
         }
     }
 
+    // Primary Constructor
     //public class EmployeeRecords(string firstName, string lastName, decimal salary)
     //{
     //    public string FirstName { get; init; } = firstName;

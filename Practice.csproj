@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AbstractExample.cs" />
+    <Compile Include="AbstractFactory.cs" />
     <Compile Include="AnonymousMethods.cs" />
     <Compile Include="AnonymousTypeVariable.cs" />
     <Compile Include="AsynchronousProgram.cs" />
@@ -57,6 +58,7 @@
     <Compile Include="InterfaceExample.cs" />
     <Compile Include="LinqQueries.cs" />
     <Compile Include="MemoryCaching.cs" />
+    <Compile Include="ObjectVarDynamic.cs" />
     <Compile Include="OperatorOverloading.cs" />
     <Compile Include="Practice.cs" />
     <Compile Include="PrimaryConstructors.cs" />

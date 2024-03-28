@@ -12,6 +12,10 @@ namespace Practice
     abstract class AreaClass1
     {
         abstract public int Area();
+
+        public void add() { }
+
+        public virtual int Calculation() { return 0; }
     }
     abstract class AreaClass2
     {
@@ -27,6 +31,11 @@ namespace Practice
         }
 
         public override int Area()
+        {
+            return side * side;
+        }
+
+        public override int Calculation()
         {
             return side * side;
         }

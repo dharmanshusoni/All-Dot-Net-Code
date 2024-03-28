@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace Practice
 {
-    sealed class Sealedc
+    class a
+    {
+
+    }
+
+    sealed class Sealedc : a
     {
         public int Add(int a, int b)
         {
